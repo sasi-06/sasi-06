@@ -158,6 +158,8 @@ Full-stack AI-powered code analysis platform supporting 4 programming languages 
 
 End-to-end ML pipeline using Random Forest and PCA, trained on 10,000+ records across 5+ appliance categories, achieving 92%+ prediction accuracy. PCA reduced dimensionality by 40%. Deployed as an interactive Streamlit dashboard with a 4-panel visualization suite (Plotly, Seaborn, Matplotlib).
 
+🔗 [Live Demo](https://energy-prediction-frontend.onrender.com/calculator)
+
 </details>
 
 <br/>
