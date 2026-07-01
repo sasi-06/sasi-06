@@ -134,11 +134,13 @@ Built 5+ responsive web apps (including a live weather app and interactive calcu
 
 ## 📌 Featured Projects
 
-<details open>
-<summary><b>🤖 AI Code Analyser</b> — React, Node.js, Python, FastAPI</summary>
+<details>
+<summary><b>🚗 Acting Driver Booking Platform</b> — React.js, Node.js, MongoDB</summary>
 <br/>
 
-Full-stack AI-powered code analysis platform supporting 4 programming languages (Python, JavaScript, Java, C++) with real-time quality scoring, cyclomatic complexity detection, and automated interview question generation using AST parsing. Integrated ML model with 3-layer architecture (React frontend, Node.js backend, Python/FastAPI ML service) backed by 6 RESTful API endpoints and WebSocket-based live code execution.
+Full-stack driver booking platform supporting passengers and administrators with 8+ features including real-time in-app chat and dynamic driver selection. Centralized data via an admin dashboard, cutting manual data management effort by 60%.
+
+🔗 [Live Demo](https://rentngo.onrender.com/)
 
 </details>
 
