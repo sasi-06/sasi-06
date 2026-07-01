@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/sasi-06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasisivaprakash+M;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C;Building+scalable+web+%26+ML+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasisivaprakash+M;Full-Stack+Developer;React.js+%7C+Node.js;Building+scalable+web+%26+ML+solutions" alt="Typing SVG" />
 </a>
 
 <br/>
