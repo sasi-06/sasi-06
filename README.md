@@ -8,7 +8,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://sasiportfolio-seven.vercel.app/<img width="481" height="53" alt="image" src="https://github.com/user-attachments/assets/77215939-4de2-43ed-ac6c-c20710105c33" />
+<a href="https://sasiportfolio-seven.vercel.app/>
 ">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
