@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated waving gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6DB33F&height=200&section=header&text=Sasisivaprakash%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+
 <!-- Typing animation header -->
 <a href="https://github.com/sasi-06">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasisivaprakash+M;Full-Stack+Developer;React.js+%7C+Node.js;Building+scalable+web+%26+ML+solutions" alt="Typing SVG" />
@@ -8,8 +11,7 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://sasiportfolio-seven.vercel.app/>
-">
+<a href="https://sasiportfolio-seven.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sasisivaprakash">
@@ -26,7 +28,7 @@
 ## 👋 About Me
 
 - 🎓 B.E. Computer Science & Engineering student at National Engineering College, Kovilpatti, India (2023 – Present)
-- 💻 Full-Stack Web Developer with hands-on experience across **React.js, Node.js, Spring Boot, and Python**
+- 💻 Full-Stack Developer with hands-on experience across **React.js, Node.js, Spring Boot, and Python**
 - 🔭 Experienced in building scalable REST APIs, real-time chat systems, and end-to-end ML pipelines
 - 🏆 Winner — NEC Tech Park Project Expo, 2025
 - 🌱 Active member of the IE Club and NSS (National Service Scheme)
@@ -70,6 +72,14 @@
 
 <br/>
 
+## 🏆 Trophy Case
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sasi-06&theme=flat&no-frame=true&margin-w=10&row=1&column=6" />
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,6 +89,14 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasi-06&theme=default&hide_border=true" />
+</div>
+
+<br/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sasi-06&theme=minimal&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
@@ -95,7 +113,7 @@
 ## 💼 Experience
 
 **Web Development Intern (Virtual)** — Prodigy InfoTech · *August 2024*
-Built 5+ responsive web apps (including a live weather app and interactive calculator) using HTML, CSS, JavaScript, and React.js. Integrated 3 third-party  APIs for real-time data, achieved cross-browser compatibility across 3 major browsers, and refined UI through 2 structured review cycles in a 4-week internship.
+Built 5+ responsive web apps (including a live weather app and interactive calculator) using HTML, CSS, JavaScript, and React.js. Integrated 3 third-party APIs for real-time data, achieved cross-browser compatibility across 3 major browsers, and refined UI through 2 structured review cycles in a 4-week internship.
 
 <br/>
 
@@ -149,3 +167,8 @@ End-to-end ML pipeline using Random Forest and PCA, trained on 10,000+ records a
 <img src="https://komarev.com/ghpvc/?username=sasi-06&label=Profile+Views&color=2E86AB&style=flat" />
 
 </div>
+
+<br/>
+
+<!-- Animated waving gradient footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E86AB&height=120&section=footer" width="100%" />
