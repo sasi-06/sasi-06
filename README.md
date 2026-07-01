@@ -28,8 +28,7 @@
 ## 👋 About Me
 
 - 🎓 B.E. Computer Science & Engineering student at National Engineering College, Kovilpatti, India (2023 – Present)
-- 💻 Full-Stack Developer with hands-on experience across **React.js, Node.js, Spring Boot, and Python**
-- 🔭 Experienced in building scalable REST APIs, real-time chat systems, and end-to-end ML pipelines
+- 💻 Full-Stack Developer with hands-on experience across **React.js, Node.js, and Python**
 - 🏆 Winner — NEC Tech Park Project Expo, 2025
 - 🌱 Active member of the IE Club and NSS (National Service Scheme)
 - 📍 Based in Kovilpatti, India
