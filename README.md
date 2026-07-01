@@ -8,7 +8,8 @@
 <br/>
 
 <!-- Social badges -->
-<a href="https://sasiportfolio.vercel.app">
+<a href="https://sasiportfolio-seven.vercel.app/<img width="481" height="53" alt="image" src="https://github.com/user-attachments/assets/77215939-4de2-43ed-ac6c-c20710105c33" />
+">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sasisivaprakash">
@@ -94,7 +95,7 @@
 ## 💼 Experience
 
 **Web Development Intern (Virtual)** — Prodigy InfoTech · *August 2024*
-Built 5+ responsive web apps (including a live weather app and interactive calculator) using HTML5, CSS3, JavaScript, and React.js. Integrated 3 third-party REST APIs for real-time data, achieved cross-browser compatibility across 3 major browsers, and refined UI through 2 structured review cycles in a 4-week internship.
+Built 5+ responsive web apps (including a live weather app and interactive calculator) using HTML, CSS, JavaScript, and React.js. Integrated 3 third-party  APIs for real-time data, achieved cross-browser compatibility across 3 major browsers, and refined UI through 2 structured review cycles in a 4-week internship.
 
 <br/>
 
